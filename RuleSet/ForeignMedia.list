@@ -1,0 +1,186 @@
+# (ForeignMedia)
+# (Video)
+
+# > Amazon Prime Video (US|JP)
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,llnwd.net
+
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
+
+# > Fox+ (HK|TW|SG)
+USER-AGENT,FOXPlus*
+USER-AGENT,FOX%20NOW*
+DOMAIN-KEYWORD,foxplus
+DOMAIN-SUFFIX,config.fox.com
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,foxnow.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,foxplay.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,mstage.io
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,urlload.net
+DOMAIN-SUFFIX,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,dashasiafox.akamaized.net
+
+# > (US)
+
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+
+# > PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+
+# > Fox Now
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,now.com
+
+# > (HK)
+
+# > myTV_SUPER
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+
+# > encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,content.jwplatform.com
+DOMAIN,videos-f.jwpsrv.com
+
+# > ViuTV
+USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+
+# > (JP)
+
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.jp
+
+# > AbemaTV
+USER-AGENT,AbemaTV*
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,llnwd.net
+
+# > (UK)
+
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,co.uk
+
+# > (TW)
+
+# > Bahamut
+USER-AGENT,Anime*
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,hinet.net
+
+# (Music)
+
+# > Spotify
+USER-AGENT,Spotify*
+USER-AGENT,*Spotify*
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
+
+# > JOOX
+USER-AGENT,WeMusic*
+USER-AGENT,JOOX*
+DOMAIN-SUFFIX,joox.com
+
+# > Pandora
+DOMAIN-SUFFIX,pandora.com
+
+# > PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+
+# > KKBOX(HK|MO|TW|JP|SG|MY)
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+
+# > CHOCO TV
+USER-AGENT,TwDramas*
+DOMAIN-SUFFIX,chocotv.com.tw
+
+# > Now E
+USER-AGENT,PCCW*
+DOMAIN-KEYWORD,nowe
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,kfs.io
+
+# > Epicgames
+DOMAIN-KEYWORD,epicgames
+DOMAIN-SUFFIX,helpshift.com
+
+# > Hulu
+USER-AGENT,Hulu*
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-KEYWORD,hulu
+
+# > Imkan
+DOMAIN-SUFFIX,imkan.tv
+
+# > Sky GO
+USER-AGENT,skygo*
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skygo.co.nz
+
+# > SoundCloud
+USER-AGENT,SoundCloud*
+DOMAIN-SUFFIX,soundcloud.com
+
+# > viuTV
+USER-AGENT,Viu*
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+
+# > Deezer
+DOMAIN-SUFFIX,deezer.com
